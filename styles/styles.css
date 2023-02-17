@@ -1,0 +1,19 @@
+@font-face {
+    font-family: excelsior;
+    src: url("Fixedsys Excelsior 3.01 Regular.ttf");
+}
+
+html {
+    font-size: 10px;
+    font-family: excelsior;
+    background-color: #00539f;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
